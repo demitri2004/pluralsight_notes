@@ -7,3 +7,6 @@
 " Connection of the users repo to the main repo is remote connection and calls remotes.","Git: The Big Picture","Making Sense of Git","Distributed Version Control","3:52","https://app.pluralsight.com/player?course=git-big-picture&author=paolo-perrotta&name=8da579b3-076a-4e4e-addd-a97be5c52e9a&clip=2&mode=live&start=232&noteid=2b2afbdf-9553-4ed8-87c5-d636ff0a22f2"
 "Git is not good for binary file like video.","Git: The Big Picture","Making Sense of Git","A Few Reasons to Dislike Git","3:41","https://app.pluralsight.com/player?course=git-big-picture&author=paolo-perrotta&name=8da579b3-076a-4e4e-addd-a97be5c52e9a&clip=3&mode=live&start=221&noteid=cf147511-ee5f-4a90-baa1-8e6f9877f63e"
 "Git is not user-friendly.","Git: The Big Picture","Making Sense of Git","A Few Reasons to Dislike Git","4:18","https://app.pluralsight.com/player?course=git-big-picture&author=paolo-perrotta&name=8da579b3-076a-4e4e-addd-a97be5c52e9a&clip=3&mode=live&start=258&noteid=792151d0-5172-495f-b668-0665789368f8"
+
+"test git commit"
+"test git commit2"
